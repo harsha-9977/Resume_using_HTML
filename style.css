@@ -1,0 +1,73 @@
+a:link,a:visited{
+    background-color:rgb(255, 0, 98);
+    color:white;
+    padding:10px 20px;
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+}
+a:hover,a:active{
+    background-color: rgb(144, 43, 226);
+}
+h3 {
+    color:blueviolet;
+}
+
+table,tr,th,td {
+    border-collapse: collapse;
+    padding:20px;
+    font-size: large;
+}
+table {
+    width: 96.5%;
+}
+th {
+    color:rgb(255, 255, 255);
+    background-color:rgb(255, 0, 98);
+    border-radius: 50px;
+}
+tr:hover {
+    background-color: blueviolet;
+    color: white;
+}
+th:hover {
+    background-color: blueviolet;
+}
+tr {
+    border-bottom: 1px solid purple;
+}
+
+div.nav ul {
+    display:flex;
+    list-style-type:none;
+}
+
+div.nav li {
+    background-color: rgb(255, 0, 98) ;
+    color: white;
+    padding:15px;
+    flex:1;
+    text-align: center; 
+    border-radius: 1px;
+}
+
+
+div.nav li a:hover {
+    background-color: rgb(92, 0, 177);
+    border-radius: 20px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+div.container {
+    display: flex;
+}
+
+div.right-align {
+    text-align: left;
+}
+
+div.left-align {
+    text-align: left;
+}
