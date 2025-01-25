@@ -39,7 +39,7 @@ Project/
 
 1. Clone this repository:  
    bash
-   git clone https://github.com/harsha-9977/personal-intro.git
+   git clone [https://github.com/harsha-9977/personal-intro.git](https://github.com/harsha-9977/html)
    
 2. Open the `personal_introduction.html` file in any modern web browser.
 
