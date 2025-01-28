@@ -37,22 +37,22 @@ tr {
     border-bottom: 1px solid purple;
 }
 
-div.nav ul {
+div.nav {
     display:flex;
     list-style-type:none;
 }
 
-div.nav li {
+div.nav {
     background-color: rgb(255, 0, 98) ;
     color: white;
     padding:15px;
-    flex:1;
+
     text-align: center; 
     border-radius: 1px;
 }
 
 
-div.nav li a:hover {
+div.nav a:hover {
     background-color: rgb(92, 0, 177);
     border-radius: 20px;
 }
